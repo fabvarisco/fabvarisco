@@ -14,4 +14,4 @@ Experienced software developer with 10+ years of expertise in creating dynamic, 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-00B4CC?style=for-the-badge&logo=phaser&logoColor=white) ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 ### Profiles
-[![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabriciovo.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciovo/)
+[![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabvarisco.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabvarisco/)
