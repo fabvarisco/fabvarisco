@@ -17,6 +17,7 @@ Experienced software developer with 10+ years of expertise in creating dynamic, 
 
 ![NixOS Badge](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Hyprland Badge](https://img.shields.io/badge/Hyprland-5277C3?style=for-the-badge&logo=hyprland&logoColor=white)
+![KDE Plasma Badge](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)
 
