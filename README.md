@@ -21,6 +21,10 @@ Experienced software developer with 10+ years of expertise in creating dynamic, 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)
 
+<p align="center">
+    <img src="./files/linux-tux.gif" width="15%" height="15%"  alt="tux 3d">
+</p>
+
 ## Profiles
 [![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabvarisco.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabvarisco/)
 
