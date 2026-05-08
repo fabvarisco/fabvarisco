@@ -30,7 +30,6 @@ Experienced software developer with 10+ years of expertise in creating dynamic, 
 <img src="./files/clawd_2.gif" width="15%" height="15%" align="left" alt="clwad gif left">
 <br>
 <img src="./files/clawd_2.gif" width="15%" height="15%" align="left" alt="clwad gif left">
-<br>
 
 <img src="./files/clwad.gif" width="15%" height="15%" align="right" alt="clwad gif right">
     <br>
